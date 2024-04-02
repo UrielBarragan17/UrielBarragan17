@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### My name es Joshua Uriel, I´m a Biomedical Engeering Student from Mexico,
+### and I would like to meet this envoiroment to develop my programmer´s skilss!!!
 <!--
 **UrielBarragan17/UrielBarragan17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
